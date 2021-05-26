@@ -1,0 +1,32 @@
+body{
+    background-image:url("project_backdrop.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    border-style: inset;
+    border-width: 10px;
+    border-color: grey;
+    background-color: white;
+    margin-bottom: 100px;
+}
+h1{
+    width: 400px;
+    margin-bottom: 20px;;
+    border-radius: 10px;
+
+}
+p{
+    width: 350px;
+    border-radius: 5px;
+    font-size: 13px;
+    height:35px;
+    text-align: center;
+    padding:5px;
+    font-weight: bold;
+    
+}
+span{
+    color: black;
+    font-weight: bold;
+}
